@@ -1,3 +1,8 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+
+
+
 # Contributing to micro-finance
 
 Thank you for your interest in contributing to micro-finance! We welcome contributions from the community to help us empower and provide opportunities to low-income individuals. Before you get started, please take a moment to review this guide.
